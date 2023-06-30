@@ -1,0 +1,40 @@
+body{
+    background-color: #AEE2FF;
+}
+
+.all{
+    text-align: center;
+    align-items: center;
+}
+.all h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 5rem;
+    gap: .5px;
+    text-decoration: underline;
+}
+.all h2{
+    font-family: 'Bacasime Antique', serif;;
+    color: #B799FF;
+    font-weight: 30px;
+    font-size: 3rem;
+}
+.img img{
+    height: 25rem;
+    width: 23rem;
+    border-radius: 12rem;
+}
+.img p{
+    font: 1em ;
+    font-size: 2rem;
+}
+.biography h1{
+    font-family: 'Bacasime Antique', serif;
+    margin-left: 10px;
+}
+.biography p{
+    justify-content: space-between;
+    text-transform: initial;
+    font-family: 'Bacasime Antique', serif;
+    font-size:1.25em ;  
+ }
